@@ -1,0 +1,18 @@
+[
+    {
+        "action": "talk",
+        "text": "Please wait while we connect you."
+    },
+    {
+        "action": "connect",
+        "timeout": 20,
+        "machineDetection": "hangup",
+        "endpoint": 
+        [
+            {
+                "type": "phone",
+                "number": "381645467525"
+            }
+        ]
+    }
+]
