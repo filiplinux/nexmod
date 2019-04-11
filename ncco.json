@@ -6,7 +6,7 @@
     {
         "action": "connect",
         "timeout": 20,
-        "machineDetection": "hangup",
+        "machineDetection": "continue",
         "endpoint": 
         [
             {
